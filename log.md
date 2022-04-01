@@ -2,12 +2,16 @@
 
 ### Day 0: April 1st, 2022 
 **Today's Progress**: 
-- Fixed CSS, worked on canvas functionality for the app. 
+- Read on the if statements in C language.
+- Covered bits on switches as well.
 
 **Thoughts:** 
-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- If statements gives choices on a program when trying to execute it.
+- Switches are used in place of too many else if. Having too many else if on a program is considered a bad practice.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+- [If statement](https://github.com/muhabeid/bro-code/blob/main/C-files/ifstatements.c)
+- [Switches](https://github.com/muhabeid/bro-code/blob/main/C-files/13-switches.c)
 
 ### Day 1: April 2nd, 2022 
 **Today's Progress**: 
