@@ -15,20 +15,21 @@
 
 ### Day 1: April 2nd, 2022 
 **Today's Progress**: 
-- Fixed CSS, worked on canvas functionality for the app. 
+- Worked on Logical operators in C language
+- Did some numerical examples programs.
 
 **Thoughts:** 
-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- I comprehended concepts on how logical operators are functioning. The three logical operators &&, || and !. It was a good experience all along knowing these are functioning and how they relate to each other. 
+- && (AND) checks to see if two conditions are true.
+- || (OR) checks if at least one condition is true.
+- ! (NOT) reverses the state of a condition
 
 **Link to work:**
--  [Calculator App](http://www.example.com)
+-  [Logical Operators]
+  - [&&] (https://github.com/muhabeid/bro-code/blob/main/C-files/14-logical_operators.c)
+  - [||] (https://github.com/muhabeid/bro-code/blob/main/C-files/15-logical_operators.c)
+  - [!] (https://github.com/muhabeid/bro-code/blob/main/C-files/16-logical_operators.c)
+- [Numerical Examples] 
+  - [Simple calculator](https://github.com/muhabeid/bro-code/blob/main/C-files/example4.c)
+  - [Convert Temp C to F](https://github.com/muhabeid/bro-code/blob/main/C-files/example3.c)
 
-### Day 2: April 3rd, 2022 
-**Today's Progress**: 
-- Fixed CSS, worked on canvas functionality for the app. 
-
-**Thoughts:** 
-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:**
--  [Calculator App](http://www.example.com)
