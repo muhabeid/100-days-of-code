@@ -25,11 +25,11 @@
 - ! (NOT) reverses the state of a condition
 
 **Link to work:**
--  [Logical Operators]
+-  Logical Operators
     - [&&](https://github.com/muhabeid/bro-code/blob/main/C-files/14-logical_operators.c)
     - [||](https://github.com/muhabeid/bro-code/blob/main/C-files/15-logical_operators.c)
     - [!](https://github.com/muhabeid/bro-code/blob/main/C-files/16-logical_operators.c)
-- [Numerical Examples] 
+- Numerical Examples 
   - [Simple calculator](https://github.com/muhabeid/bro-code/blob/main/C-files/example4.c)
   - [Convert Temp C to F](https://github.com/muhabeid/bro-code/blob/main/C-files/example3.c)
 
