@@ -1,4 +1,5 @@
-# 100 Days Of Code - Log
+# Overall log of n Days of Code!
+This is an overall log that contains all the days that I will be coding. All progress will be recorded here and the relevant round of days as well recorded to the relevant .md file.
 
 ### Day 0: April 1st, 2022 
 **Today's Progress**: 
