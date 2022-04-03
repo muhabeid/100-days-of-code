@@ -1,7 +1,7 @@
 # Round 1 of 100 Days of Code.
 
 ### Day 0: April 1st, 2022 
-**Today's Progress**: 
+**Today's Progress:** 
 - Read on the if statements in C language.
 - Covered bits on switches as well.
 
@@ -14,7 +14,7 @@
 - [Switches](https://github.com/muhabeid/bro-code/blob/main/C-files/13-switches.c)
 
 ### Day 1: April 2nd, 2022 
-**Today's Progress**: 
+**Today's Progress:** 
 - Worked on Logical operators in C language
 - Did some numerical examples programs.
 
@@ -32,3 +32,10 @@
 - Numerical Examples 
   - [Simple calculator](https://github.com/muhabeid/bro-code/blob/main/C-files/example4.c)
   - [Convert Temp C to F](https://github.com/muhabeid/bro-code/blob/main/C-files/example3.c)
+
+### Day 2: April 3rd, 2022
+**Today's Progress:**
+- Did some revision on C introduction and covered it in details.
+
+**Thoughts:**
+- Was nice recalling and adding some new information to what I already knew on the C data types, variables and constants, input and outputs together with identifiers and the rule that follow along.
