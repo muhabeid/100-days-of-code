@@ -39,3 +39,14 @@
 
 **Thoughts:**
 - Was nice recalling and adding some new information to what I already knew on the C data types, variables and constants, input and outputs together with identifiers and the rule that follow along.
+
+### Day 3: April 4th, 2022 
+**Today's Progress:** 
+- Reviewed work on arguments and parameters and how they are called to fucntion in C.
+- Did some examples programs.
+
+**Thoughts:** 
+- Arguments and parameters are used to remove the repetition in writting programs. They are used as declared functions.
+
+**Link to work:**
+-  [Arguments and Parameters](https://github.com/muhabeid/bro-code/blob/main/C-files/18-arg_parameters.c)
