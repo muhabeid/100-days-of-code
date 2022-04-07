@@ -50,3 +50,18 @@
 
 **Link to work:**
 -  [Arguments and Parameters](https://github.com/muhabeid/bro-code/blob/main/C-files/18-arg_parameters.c)
+
+I missed out on two days consecutive, I was not feeling well and was kinda down bad.
+
+### Day 4: April 7th, 2022
+**Today's Progress:**
+-   Went through Ternary operators and functions prototypes in C.
+-   Ternary operators are very useful in that they reduce the use of if/else and make it easier using the general formula of (condition) ? value if true : value if false.
+-   Function prototypes ensures that calls to a function are made with the correct number and type arguments.
+
+**Thoughts:**
+-   The two takes for the day were great to practice with knowing how they make writting code easy. Looking forward to working them more frequently.
+
+**Link to Work:**
+-   [Ternary Operators](https://github.com/muhabeid/bro-code/blob/main/C-files/20-ternary_operator.c)
+-   [Function Prototypes](https://github.com/muhabeid/bro-code/blob/main/C-files/21-function_prototype.c)
