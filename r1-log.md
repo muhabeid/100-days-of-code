@@ -65,3 +65,14 @@ I missed out on two days consecutive, I was not feeling well and was kinda down 
 **Link to Work:**
 -   [Ternary Operators](https://github.com/muhabeid/bro-code/blob/main/C-files/20-ternary_operator.c)
 -   [Function Prototypes](https://github.com/muhabeid/bro-code/blob/main/C-files/21-function_prototype.c)
+
+### Day 5: April 8th, 2022
+**Today's Progress:**
+-   Today was all about string functions in C.
+-   String functions need to be declared first with a header that contains many string functions. 
+
+**Thoughts:**
+-    It was basically an introduction of strings and how different type of string function can be called to function, as I progress further down the course.. I'll get to see more strings functions and what they bring to the table.
+
+**Link to Work:**
+-   [String Functions](https://github.com/muhabeid/bro-code/blob/main/C-files/22-string_functions.c)
