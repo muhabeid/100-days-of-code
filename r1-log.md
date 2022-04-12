@@ -76,3 +76,11 @@ I missed out on two days consecutive, I was not feeling well and was kinda down 
 
 **Link to Work:**
 -   [String Functions](https://github.com/muhabeid/bro-code/blob/main/C-files/22-string_functions.c)
+
+### Day 6: April 12th, 2022
+**Today's Progress:**
+-   After a long break of 4 days (I know I shouldn't). Today I went through pointers and arrays.
+-   POinters are special variables that are used to addresses rather than values while arrays are variables that are used to store multiple values in them. 
+
+**Thoughts:**
+-    Pointers and arrays are just another way to work with variables to avoid repetition.
